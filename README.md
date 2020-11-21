@@ -1,0 +1,2 @@
+# FlutterAndroidHybridDemo
+flutter以module的形式嵌入android项目
